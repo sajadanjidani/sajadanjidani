@@ -30,5 +30,5 @@
 
 ## 📱 Connct Me
 <a href="https://t.me/sajadanjiidanii"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://wa.me/+989936893100"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>
+<a href="https://wa.me/+989054859530"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>
 <a href="https://www.instagram.com/sajadanjiidanii"><img alt="INSTAGRAM" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
