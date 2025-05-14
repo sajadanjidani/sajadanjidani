@@ -26,8 +26,8 @@
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## 📊 Github Status
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajadanjiidanii&hide_progress=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajadanjiidanii&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajadanjidani&hide_progress=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajadanjidani&show_icons=true&theme=tokyonight)
 
 ## 📱 Connct Me
 <a href="#"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
